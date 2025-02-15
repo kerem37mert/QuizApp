@@ -6,7 +6,7 @@ const Quiz = () => {
 
     const [question, setQuestion] = useState({});
     const [answers, setAnswers] = useState([]);
-    const [selected, setSelected] = useState("");s
+    const [selected, setSelected] = useState("");
 
     const shuffle = (array) => {
         for (let i = array.length - 1; i > 0; i--) {
