@@ -1,0 +1,11 @@
+.header-container {
+    background-color: darkslategray;
+    padding: 2rem;
+    text-align: center;
+}
+
+.title {
+    margin: 0;
+    font-size: 1.6rem;
+    color: #fff;
+}
